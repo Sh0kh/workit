@@ -26,7 +26,6 @@ export default function Home() {
                 repeat: Infinity,
             }}
         >
-            {/* Контент */}
             <Header />
             <main className="">
                 <Hero />
